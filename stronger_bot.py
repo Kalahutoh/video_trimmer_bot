@@ -6,9 +6,9 @@ import os
 import cv2
 import re
 
-API_KEY = 2215757
-API_HASH = 'e18c19197e887478b8a77ae46f160847'
-BOT_TOKEN = '6616025586:AAGivVAjd2ZhWk0KYHATKeMCSiEUCEPiZYc'
+API_KEY = 23147459
+API_HASH = '7ea3e357441507277e33bd1f7c6d8847'
+BOT_TOKEN = ''
 VIDEO_FOLDER = 'videos'
 
 app = Client("video_processing_bot", api_id=API_KEY, api_hash=API_HASH, bot_token=BOT_TOKEN)

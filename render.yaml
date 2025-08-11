@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: 
+    repo: https://github.com/Kalahutoh/video_trimmer_bot
     branch: main
     autoDeploy: false
     envVars:
